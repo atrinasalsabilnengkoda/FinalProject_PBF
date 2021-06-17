@@ -1,0 +1,13 @@
+{
+  "listBracelets": [
+    {
+      "id": 1,
+      "name": "Kalina Packs",
+      "price": 200000,
+      "image": "https://dbs9nopbkp043.cloudfront.net/images/products/Kalina_Packs_2_1612258481118_resized1024.jpg",
+      "material": "Batu Permata",
+      "weight" : 100,
+      "desc" : "Kalina packs berisikan 3 model gelang yang berbeda-beda. Packs ini memiliki warna yang senada satu sama lainnya. Tema Hijau Tosca digelang ini mengartikan sebuah kebijaksanaan dalam mengendalikan karakter diri"
+    }
+  ]
+}
